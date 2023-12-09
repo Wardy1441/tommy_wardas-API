@@ -1,0 +1,7 @@
+(
+"cover": "Fortknajt-PC-2014",
+"score" : 45,
+"release": "2014",
+"genre" :["first-person-shooter", "ANIME", "PC"],
+"publisher" : "EpicGames",
+)

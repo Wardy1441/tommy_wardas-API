@@ -1,0 +1,7 @@
+(
+"cover": "Hal55o-playstation-2026",
+"score" : 9,
+"release": "2026",
+"genre" :["first-person-shooter", "cooperation", "xbox"],
+"publisher" : "Xbox Game Studios",
+)

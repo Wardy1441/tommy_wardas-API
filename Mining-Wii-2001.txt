@@ -1,0 +1,7 @@
+(
+"cover": "Mining-Wii-2001",
+"score" : 99,
+"release": "2001",
+"genre" :["building", "block", "Wii"],
+"publisher" : "Midland University",
+)
